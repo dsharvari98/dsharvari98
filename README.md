@@ -1,5 +1,5 @@
 ### Bonjour 👋
-![Cover Image](https://github.com/rahul-badgujar/rahul-badgujar/blob/main/cover%20image.jpeg)
+![Cover Image](https://dribbble.com/shots/11529334-Welcome?utm_source=Clipboard_Shot&utm_campaign=illotv&utm_content=Welcome!&utm_medium=Social_Share.gif)
 
 - 🔭 I’m currently working on ...Coding Skills
 - 🌱 I’m currently learning ...React
