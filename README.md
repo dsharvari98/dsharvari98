@@ -1,5 +1,5 @@
 ### Bonjour 👋
-<img src="https://dribbble.com/shots/15135578-Name-Inspiration">
+![Cover Image](https://github.com/rahul-badgujar/rahul-badgujar/blob/main/cover%20image.jpeg)
 
 - 🔭 I’m currently working on ...Coding Skills
 - 🌱 I’m currently learning ...React
