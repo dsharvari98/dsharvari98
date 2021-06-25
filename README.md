@@ -1,5 +1,5 @@
 ### Bonjour 👋
-![Cover Image](https://github.com/dsharvari98/dsharvari98/blob/main/Intro.png)
+![Cover Image](https://github.com/dsharvari98/dsharvari98/blob/main/Introduction.png)
 
 - 🔭 I’m currently working on ...Coding Skills
 - 🌱 I’m currently learning ...React
