@@ -1,5 +1,5 @@
 ### Bonjour 👋
-![Cover Image](https://dribbble.com/shots/11529334-Welcome?utm_source=Clipboard_Shot&utm_campaign=illotv&utm_content=Welcome!&utm_medium=Social_Share.gif)
+![Cover Image](https://dribbble.com/shots/15920950-About-Me?added_first_shot=true&utm_source=Clipboard_Shot&utm_campaign=sharvarid123&utm_content=About%20Me&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=sharvarid123&utm_content=About%20Me&utm_medium=Social_Share)
 
 - 🔭 I’m currently working on ...Coding Skills
 - 🌱 I’m currently learning ...React
