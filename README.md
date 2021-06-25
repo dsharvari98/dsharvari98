@@ -1,4 +1,4 @@
-### Bonjour 👋
+# Bonjour 👋
 ![Cover Image](https://github.com/dsharvari98/dsharvari98/blob/main/Introduction.png)
 
 - 🔭 I’m currently working on ...Coding Skills
@@ -7,8 +7,6 @@
 - 🤔 I’m looking for help with ...Flutter
 - 💬 Ask me about ...HTML|CSS|Wordpress
 - ⚡ Fun fact: ...I like to watch movies and review it.
-
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11529334-Welcome?utm_source=Clipboard_Shot&utm_campaign=illotv&utm_content=Welcome!&utm_medium=Social_Share">
 
 
 <h3 align="left">Languages and Tools:</h3>
