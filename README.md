@@ -1,6 +1,5 @@
 # Bonjour 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-dsharvari98&color=blueviolet)
 
 
 ![Cover Image](https://github.com/dsharvari98/dsharvari98/blob/main/Introduction.png)
@@ -11,6 +10,8 @@
 - 🤔 I’m looking for help with ...Flutter
 - 💬 Ask me about ...HTML|CSS|Wordpress
 - ⚡ Fun fact: ...I like to watch movies and review it.
+
+![](https://komarev.com/ghpvc/?username=your-github-dsharvari98&color=blueviolet)
 
 
 <h3 align="left">Languages and Tools:</h3>
