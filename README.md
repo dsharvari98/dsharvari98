@@ -4,11 +4,10 @@
 
 ![Cover Image](https://github.com/dsharvari98/dsharvari98/blob/main/Introduction.png)
 
-- 🔭 I’m currently working on ...Coding Skills
-- 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ...Frontend Development| Web Designing
-- 🤔 I’m looking for help with ...Flutter
-- 💬 Ask me about ...HTML|CSS|Wordpress
+- 🔭 I’m currently working as an ...Intern at Hewlett Packard Enterprise.
+- 🌱 I’m currently learning ...Aws
+- 👯 I’m looking to collaborate on ...Artificial Intelligence
+- 💬 Ask me about ...HTML|CSS|Wordpress| Flutter
 - ⚡ Fun fact: ...I like to watch movies and review it.
 
 ![](https://komarev.com/ghpvc/?username=your-github-dsharvari98&color=blueviolet)
