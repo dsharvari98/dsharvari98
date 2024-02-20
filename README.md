@@ -4,7 +4,7 @@
 
 ![Cover Image](https://github.com/dsharvari98/dsharvari98/blob/main/Introduction.png)
 
-- 🔭 I’m currently working as an ...Intern at Hewlett Packard Enterprise.
+- 🔭 I’m currently working as an ...Employee at Hewlett Packard Enterprise.
 - 🌱 I’m currently learning ...Aws
 - 👯 I’m looking to collaborate on ...Artificial Intelligence
 - 💬 Ask me about ...HTML|CSS|Wordpress| Flutter
