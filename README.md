@@ -1,13 +1,8 @@
 # Bonjour 👋
-
-
-
-![Cover Image](https://github.com/dsharvari98/dsharvari98/blob/main/Introduction.png)
-
 - 🔭 I’m currently working as an ...Employee at Hewlett Packard Enterprise.
 - 🌱 I’m currently learning ...Aws
 - 👯 I’m looking to collaborate on ...Artificial Intelligence
-- 💬 Ask me about ...HTML|CSS|Wordpress| Flutter
+- 💬 Ask me about ...DevSecOps Tools|HTML|CSS|Wordpress| Flutter
 - ⚡ Fun fact: ...I like to watch movies and review it.
 
 ![](https://komarev.com/ghpvc/?username=your-github-dsharvari98&color=blueviolet)
